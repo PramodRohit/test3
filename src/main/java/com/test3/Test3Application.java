@@ -14,6 +14,7 @@ public class Test3Application {
 		double s = 4.5;
 		int y= 20;
 		boolean f = false;
+		char ch = 'w';
 		SpringApplication.run(Test3Application.class, args);
 	}
 
